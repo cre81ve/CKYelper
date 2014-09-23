@@ -25,11 +25,11 @@ GIF
 
 <b>Comments</b>  : 
 
-Auto layout - with initial iOS6 way took a good amount of time for table view. 
-Did implement - android way of yelp filters. Like below 
-<img src="https://github.com/cre81ve/CKYelper/blob/master/yelp_lcap_1.gif" />
-(took 8h) 
-Created new filter view controller with table/sections today.
+- Auto layout - with initial iOS6 way took a good amount of time for table view. 
+- Did implement - android way of yelp filters. Like below 
+- - <img src="https://github.com/cre81ve/CKYelper/blob/master/yelp_lcap_1.gif" />
+- (took 8h) 
+- Created new filter view controller with table/sections today.
 
 <b>License </b>
 =======
